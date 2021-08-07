@@ -4,7 +4,7 @@
 
 ### Como fazer a consulta de CEP?
 
-Basta inserir a rota [**http://localhost:3333/result/consultCEP/](http://localhost:3333/result/consultCEP/31814350)(Digite o CEP para consultar)**
+Basta inserir a rota **http://localhost:3333/result/consultCEP/(Digite o CEP para consultar)**
 
 #### **Exemplo GET**:
 <p align="center"><img width=50% src="https://cdn.discordapp.com/attachments/691410662789742603/873582955346403368/unknown.png"></p>
