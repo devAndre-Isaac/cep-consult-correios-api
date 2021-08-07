@@ -1,7 +1,7 @@
 import { Router } from "express";
-import trackingRouter from "./Tracking.routes";
+import consultRouter from "./consult.routes";
 
-const routes = Router()
-routes.use("/track", trackingRouter)
+const routes = Router();
+routes.use("/result", consultRouter);
 
-export default routes
+export default routes;
